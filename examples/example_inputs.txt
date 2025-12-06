@@ -1,0 +1,20 @@
+# Example inputs for Red-Black Tree Visualizer
+# Lines starting with # are comments
+
+# Simple tree
+5,3,8,1,4,7,9
+
+# Larger tree
+10,5,15,2,7,12,20,1,6,8,11,14,18,25
+
+# Parenthetic notation
+(5(3(1)(4))(8(7)(9)))
+
+# With negative numbers
+-5,10,-3,20,-10,15,0
+
+# Sequential numbers
+1,2,3,4,5,6,7,8,9,10
+
+# Reverse order
+10,9,8,7,6,5,4,3,2,1
