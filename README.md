@@ -2,21 +2,12 @@
 
 A Python implementation of Red-Black Tree with beautiful graphical visualization using Matplotlib.
 
-//img.shields.io/badge/python-3.7%2B-blue)
-//img.shields.io/badge/license-MIT-green)
-//img.shields.io/badge/status-active-success)
 
-## 📋 Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [How It Works](#how-it-works)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## 📸 Screenshots
+<div align=center>
+    <img src="examples/screenshots/screem1.jpg" width="300">
+</div>
 
 ## ✨ Features
 
@@ -39,7 +30,7 @@ A Python implementation of Red-Black Tree with beautiful graphical visualization
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/red-black-tree-visualizer.git
+git clone https://github.com/serajcomputerarts/red-black-tree-visualizer.git
 cd red-black-tree-visualizer
 ```
 
@@ -117,11 +108,6 @@ A Red-Black Tree is a self-balancing binary search tree with these properties:
 3. **Fixing**: Apply rotation and recoloring to maintain properties
 4. **Visualization**: Calculate positions and draw the tree
 
-## 📸 Screenshots
-
-[Sample Output](examples/screenshots/sample_output.png)
-
-*Red-Black Tree visualization with 7 nodes*
 
 ## 🛠️ Project Structure
 
@@ -175,16 +161,11 @@ Contributions are welcome
 - [ ] Improve test coverage
 - [ ] Add performance benchmarks
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
-**Your Name**
+**Farhad PourReza**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
 
 ## 🙏 Acknowledgments
 
@@ -192,15 +173,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Matplotlib for visualization capabilities
 - The open-source community
 
-## 📞 Contact
-
-If you have any questions or suggestions, feel free to:
-
-- Open an issue
-- Contact me at: your.email@example.com
 
 ---
 
 ⭐ If you found this project helpful, please give it a star
 
 Made with ❤️ and Python
+
